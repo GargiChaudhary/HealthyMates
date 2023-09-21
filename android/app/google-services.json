@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "552426250912",
+    "project_id": "mates-c2d31",
+    "storage_bucket": "mates-c2d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552426250912:android:1c4335a9c7ee2a61d3dfc5",
+        "android_client_info": {
+          "package_name": "com.example.healthy_mates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552426250912-l9s2bfr4cvd2bgovulmk077jtu7j99ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ0b84SphSyILDlnmo2MuM5rNxxEs_dAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552426250912-l9s2bfr4cvd2bgovulmk077jtu7j99ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552426250912-t041ih874kkuu9a98m0u42i1ci9q2o6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthyMates"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

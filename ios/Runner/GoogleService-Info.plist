@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>552426250912-t041ih874kkuu9a98m0u42i1ci9q2o6h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.552426250912-t041ih874kkuu9a98m0u42i1ci9q2o6h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYeZIG_2nfAc-xZFCuphGerWz8auHcNcY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>552426250912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.healthyMates</string>
+	<key>PROJECT_ID</key>
+	<string>mates-c2d31</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mates-c2d31.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:552426250912:ios:736d5029534c1859d3dfc5</string>
+</dict>
+</plist>
