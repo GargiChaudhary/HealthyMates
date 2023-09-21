@@ -8,7 +8,7 @@ class ExerciseApi {
   Future<List<Exercise>> getExercise(String? query) async {
     var uri = Uri.https('exercisedb.p.rapidapi.com', '/exercises');
     final response = await http.get(uri, headers: {
-      'X-RapidAPI-Key': '8ef4558495msh4539d062691ca3cp1c9356jsn339f60f6e4df',
+      'X-RapidAPI-Key': 'API_KEY',
       'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
     });
     if (response.statusCode == 200) {
