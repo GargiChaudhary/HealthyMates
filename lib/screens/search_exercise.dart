@@ -60,7 +60,7 @@ class SearchExercise extends SearchDelegate {
   @override
   Widget buildSuggestions(BuildContext context) {
     return const Center(
-      child: Text('Search exercises suggestions'),
+      child: Text('Search exercises'),
     );
   }
 }
