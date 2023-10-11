@@ -180,7 +180,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                       ],
                     ),
                     const SizedBox(
-                      height: 11,
+                      height: 10, //chnge 4
                     ),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
