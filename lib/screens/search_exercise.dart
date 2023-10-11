@@ -6,6 +6,7 @@ import 'package:healthy_mates/models/exercise_api.dart';
 import '../models/exercise.dart';
 import '../widgets/exercise_card.dart';
 
+//will adding
 class SearchExercise extends SearchDelegate {
   ExerciseApi _exercise = ExerciseApi();
 
